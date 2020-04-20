@@ -14,6 +14,7 @@
 
 namespace BH_WC_Block_Single_Use_Coupon_Abuse\includes;
 
+use BH_WC_Block_Single_Use_Coupon_Abuse\woocommerce\Discounts;
 use BH_WC_Block_Single_Use_Coupon_Abuse\WPPB\WPPB_Loader_Interface;
 use BH_WC_Block_Single_Use_Coupon_Abuse\WPPB\WPPB_Object;
 
